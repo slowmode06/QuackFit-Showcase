@@ -62,7 +62,8 @@ This repo showcases my contributions in:
 ---
 ## 📸 Screenshots & Demo
 - **AI Workout Plan (JSON)** <img width="360" height="540" alt="image" src="https://github.com/user-attachments/assets/2b74e181-1e75-47cb-a41f-2840af5397a0" />
-- **Motivational Quote & Image**  
+- **Motivational Quote & Image**  <img width="311" height="238" alt="image" src="https://github.com/user-attachments/assets/ca103054-0f07-410e-a533-181de35fbf97" />
+
 
 ---
 
